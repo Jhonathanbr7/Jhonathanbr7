@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jhonathanbr7
 - 👀 I’m interested in full-Stack
 - 🌱 I’m currently learning Python Advanced
-- 💞️ I’m looking to collaborate on Develoment of systems and websites
+- 💞️ I’m looking to collaborate on development of systems and websites
 - 📫 How to reach me? Contact me on jhonathanbr7@gmail.com
 
 <!---
